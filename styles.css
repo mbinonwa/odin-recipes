@@ -1,0 +1,31 @@
+.test {
+    font-family: Arial, Helvetica, sans-serif;
+    border: 10px;
+    border-color: rgba(255, 0, 55, 0.329);
+    background-color: rgba(255, 0, 55, 0.329);
+    color: black;
+    padding: 10px;
+    border-radius: 12px;
+    margin: 4px 2px;
+    display: inline-block;
+}
+
+.food {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgba(255, 0, 55, 0.329);
+    border: none;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
